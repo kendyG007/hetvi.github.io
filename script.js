@@ -5,9 +5,9 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "Okay, Penguin.🐧💫";
+  question.innerHTML = "You always heal me, my pricess warrior🐧💫";
   gif.src =
-    "https://media1.tenor.com/m/0bqCKXQqhakAAAAd/hugging-pudgy-penguins.gif";
+    "https://media1.tenor.com/m/69-NVr7mGKEAAAAC/pengu-pudgy.gif";
 });
 
 noBtn.addEventListener("mouseover", () => {
